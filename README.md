@@ -1,5 +1,5 @@
 # VideotoAudio Converter
-VideoConverter is an application that lets you convert video between particular formats
+VideotoAudio Converter is an application that lets you convert video between particular formats
 - The video formats including, 'mp4', 'avi', 'mov', 'flv', 'webm', 'mkv', 'wmv'.
 - The audio formats including, 'mp3', 'aac', 'alac', 'wav', 'm4a','flac', 'wma', 'amr', 'oga'.
 - Video to Video/Audio
